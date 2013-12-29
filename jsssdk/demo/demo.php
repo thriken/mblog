@@ -17,7 +17,7 @@ error_reporting(E_ALL);
 date_default_timezone_set('Asia/Shanghai');
 
 define('ACCESS_KEY', '043e2b9aa8694a339f3018141ac9c290'); // 请在此处输入您的AccessKey
-define('SECRET_KEY', 'f973b025bc314a1b98ca8d44b14e17b8xYkniVZh'); // 请在此处输入您的AccessSecret
+define('ACCESS_SECRET', 'f973b025bc314a1b98ca8d44b14e17b8xYkniVZh'); // 请在此处输入您的AccessSecret
 					    
 
 function test_total(){
