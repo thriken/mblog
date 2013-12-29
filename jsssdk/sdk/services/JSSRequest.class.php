@@ -199,7 +199,7 @@ class JSSRequest {
 		$this->debug_out("headers:");
 		$this->debug_out($this->headers);
 	
-		$this->conn = curl_init();
+		$this->conn = url_init();
 		if($this->conn) {
 				curl_setopt_array($this->conn, array(
 							CURLOPT_URL             => $this->url,
