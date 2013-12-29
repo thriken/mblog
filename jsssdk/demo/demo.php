@@ -1,3 +1,20 @@
+<html>
+  <head>
+    <title>JSS-PHP-SDK SimpleDemo</title>
+  </head>
+  <body>
+    <pre>
+/**
+ * $ID: SimpleDemo $
++------------------------------------------------------------------
+ * @project JSS-PHP-SDK
+ * @create Created on 2013-06-18
++------------------------------------------------------------------
+ * 该文件为使用JSS主要功能的简单案例，需详细了解各个案例的详细用法请查看文档或各个单独案例。
+ * 注意：运行前请在相应位置填入您的AccessKey和AccessSecret
+ *
+ */
+	</pre>
 <?php
 /**
  * $ID: SimpleDemo $
