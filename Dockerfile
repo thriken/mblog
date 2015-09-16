@@ -1,3 +1,3 @@
 #Dockerfile
-
+cd /tmp
 #END
